@@ -1,8 +1,8 @@
 var slider;
 
-var n1 = 0.3;
-var n2 = 0.3;
-var n3 = 0.3;
+var n1 = 1;
+var n2 = 1;
+var n3 = 1;
 var m = 5;
 var a = 1;
 var b = 1;
